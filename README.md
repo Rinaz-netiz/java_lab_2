@@ -13,6 +13,7 @@
 
 ## Структура проекта
 
+```
 fenwick-tree/
 ├── src/
 │ ├── FenwickTree.java # Основной класс
@@ -20,6 +21,7 @@ fenwick-tree/
 │ └── FenwickTreeTest.java # Тесты
 ├── README.md
 └── .gitignore
+```
 
 ## Компиляция и запуск
 
